@@ -1,0 +1,11 @@
+{
+  "dados": [
+    {
+      "categoria": "frutas",
+      "itens": [
+        "uva",
+        "kiwi"
+      ]
+    }
+  ]
+}
