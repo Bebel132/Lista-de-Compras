@@ -1,0 +1,11 @@
+{
+  "name": "lista-de-compras-",
+  "version": "1.0.0",
+  "description": "programa para fazer uma lista de compras",
+  "main": "listaDeCompras.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bebel132",
+  "license": "ISC"
+}
