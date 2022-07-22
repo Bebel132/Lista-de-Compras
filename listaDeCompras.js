@@ -190,6 +190,7 @@ function sair(){
 }
 
 while(app){
+    console.clear()
     console.log("-----MENU-----")
     menu.forEach((i) => {
         console.log(i)
